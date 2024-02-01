@@ -15,7 +15,7 @@
 import fs from 'fs/promises';
 import { NetworkId } from 'mina-signer';
 import { Mina, PrivateKey } from 'o1js';
-import { Add } from './Add.js';
+import { Add } from './ConcurrentEscrow.js';
 
 // check command line arg
 let deployAlias = process.argv[2];

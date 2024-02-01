@@ -1,4 +1,4 @@
-# Mina zkApp: Concurent Nullifier
+# Mina zkApp: Concurrent Nullifier
 
 This template uses TypeScript.
 
